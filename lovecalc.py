@@ -1,5 +1,5 @@
-name1 = input("name1 is")
-name2 = input("name2 is")
+name1 = input("name1 is ")
+name2 = input("name2 is ")
 score1 = 0
 score2 = 0
 name1_length = len(name1)
@@ -28,4 +28,4 @@ for i in range(0, name2_length):
     score2 += fcheck_love(name2[i])
 
 
-print(f"{score1}+{score2}")
+print(f"{score1}{score2}%")

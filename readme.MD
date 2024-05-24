@@ -1,0 +1,1 @@
+Enter 2 names, and it will calculate how many percent match.
